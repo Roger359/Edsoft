@@ -1,0 +1,72 @@
+// Requerimientos Basicos
+
+Paginas {
+  - Home
+  - ¿Quienes Somos?
+  - Proyectos
+  - Contacto
+}
+
+1. Inicio (Home)
+    * Logo y Menu (header)
+    * Banner
+        * Titulo (h1)
+        * Description (p)
+        * Boton
+        * Imagen
+    * Servicios 
+        * Titulo ("Nuestros Servicios")
+        * Servicio 1
+            Titulo
+            Imagen
+            Description
+        * Servicio 2
+        * Servicio 3
+    * Descripción de Nuestra Empresa
+        * Banner Corporativo
+            Imagen de Fondo
+            Texto Principal
+            Texto Secundario
+            Boton del Contacto
+    * Ultimos Proyectos 
+        * Proyectos 
+            Imagen
+            Titulo
+            Descripcion
+    * ¿Quieres trabajar con Nosotros?
+        * Boton del Contacto
+        * Redes sociales
+            facebook
+            Instagram
+            Twitter
+    * footer
+        * Copyright
+2. ¿Quienes Somos?
+    * Breve Historia de la Empresa
+        * Imagen
+        * Descripcion
+    * Misión
+        * Imagen
+        * Descripcion
+    * Visión
+        * Imagen  
+        * Descripcion
+3. Proyectos (Portafolio)
+    * Proyectos (Cards)
+        * Imagen
+        * Nombre del Cliente
+        * Descripcion
+        * Link del Proyecto
+4. Contacto
+    * Datos de la Empresa 
+        * tlf
+        * Direccion
+        * correo
+        * Mapa de la ubicacion
+    * Formulario de Contacto  
+        * Google Formulario
+
+
+// Estilos Base
+
+        
